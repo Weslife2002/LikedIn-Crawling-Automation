@@ -45,6 +45,7 @@ This section should list any major frameworks/tools/languages to schedule and au
 * GPG encryption (Bash Programming)
 * SFTP (Bash Programming)
 * Selenium (Python)
+* Flask (Python)
 * Airflow (Python)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
