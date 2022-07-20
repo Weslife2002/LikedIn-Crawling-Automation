@@ -42,6 +42,7 @@ This section should list the workflow of the project.
 
 This section should list any major frameworks/tools/languages to schedule and automate this process.
 
+* Docker
 * GPG encryption (Bash Programming)
 * SFTP (Bash Programming)
 * Selenium (Python)
